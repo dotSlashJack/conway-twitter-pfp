@@ -4,8 +4,8 @@
 
 This code can be used to update your Twitter avatar/profile picture each day with a new time step in <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"Conway's Game of LIfe</a>. The first time it's run, it will generate one year of images, and then update your Twitter profile picture with the game of life image for the number of days after initial run. You will need to manually re-run or schedule the script to run each day. It's not the most efficient (runtime wise) implementation of the Game of LIfe, but it was a fun project. I'll likely go back and improve the algorithm later, as well as make the border a circle rather than a square so the entire game will be visible on Twitter without clicking on the profile picture.
 
-<img style="max-width: 60px;" src="images/game_0.png" />
-<img style="max-width: 60px;" src="images/game_364.png" />
+<img style="width: 60px;" src="images/game_0.png" />
+<img style="width: 60px;" src="images/game_364.png" />
 
 Sample images of t=0 and t=364.
 
