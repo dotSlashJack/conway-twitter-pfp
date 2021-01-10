@@ -1,0 +1,8 @@
+my-images/
+my-images/*
+__pycache__
+__pycache__/
+__pycache__/*
+square.png
+my-update
+my-update.py
